@@ -65,8 +65,8 @@ The analysis covers data cleaning, relational querying, and dashboard design —
 ## Repository Structure
 
 ```
-├── Python/                  # Data cleaning & preprocessing scripts
-├── Olist_analysis.sql       # SQL queries used for the analysis
+├── Python/                  ->Data cleaning & preprocessing scripts
+├── Olist_analysis.sql       ->SQL queries used for the analysis
 └── README.md
 ```
 
